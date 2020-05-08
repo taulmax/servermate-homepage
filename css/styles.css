@@ -1,51 +1,7 @@
 @import "reset.css";
+@import "main_visual.css";
+@import "main_business.css";
 
-.wrap_main {
-    background-image: url("../img/main_background.png");
-    width: 100%;
-    height: 100vh;
-}
-
-.wrap_header {
+* {
     box-sizing: border-box;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    border-bottom: 1px solid white;
-    font-size: 20px;
-    color: white;
-    padding: 30px 0px;
-}   
-
-.wrap_header-center {
-    display: flex;
-    width: 90%;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.menu-title {
-    margin: 0px 10vh;
-}
-
-.main-textbox {
-    box-sizing: border-box;
-    position: absolute;
-    bottom: 100px;
-    right: 100px;
-    color: white;
-    font-size: 35px;
-    display: flex;
-    flex-direction: column;
-    text-align: right;
-}
-
-.big-text {
-    font-size: 50px;
-    margin-bottom: 70px;
-}
-
-.text:nth-child(2) {
-    margin-bottom: 20px;
 }
