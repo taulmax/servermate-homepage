@@ -1,6 +1,7 @@
 @import "reset.css";
 @import "main_visual.css";
 @import "main_business.css";
+@import "main_different.css";
 
 * {
     box-sizing: border-box;
