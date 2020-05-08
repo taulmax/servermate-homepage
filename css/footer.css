@@ -1,0 +1,21 @@
+.footer {
+    color: white;
+    background-color: #262626;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.footer-call {
+    font-size: 19px;
+    font-weight: 700;
+    padding: 40px 0px;
+}
+
+.footer-text {  
+    font-size: 13px;
+    color: #7D7D7D;
+    padding-bottom: 15px;
+}
