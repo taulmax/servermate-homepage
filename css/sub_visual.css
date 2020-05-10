@@ -9,15 +9,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 30px 0px;
     font-size: 18px;
     font-weight: 500;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid gray;
 }
 
 .sub_menu-title {
-    margin: 0px 30px;
+    display: flex;
+    padding: 0px 30px;
     color: rgb(174, 177, 180);
+    height: 80px;
+    align-items: center;
 }
 
 .sub_textbox {
@@ -35,4 +37,9 @@
 
 .sub_textbox span {
     padding: 10px 0px;
+}
+
+.chosen {
+    color: black;
+    border-bottom: 3px solid red;
 }
