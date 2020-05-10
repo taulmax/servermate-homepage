@@ -30,11 +30,6 @@
     margin: 0px 10vh;
 }
 
-a {
-    text-decoration: none;
-    color: white;
-}
-
 .main-textbox {
     position: absolute;
     bottom: 100px;
