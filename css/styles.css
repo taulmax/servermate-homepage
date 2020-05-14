@@ -4,6 +4,7 @@
 @import "main_different.css";
 @import "footer.css";
 @import "sub_visual.css";
+@import "map.css";
 
 * {
     box-sizing: border-box;
